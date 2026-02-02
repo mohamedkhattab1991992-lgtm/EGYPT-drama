@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="ON Drama" group-title="Drama",ON Drama
+http://stream.example.com/on-drama-sd.m3u8
+
+#EXTINF:-1 tvg-name="CBC Drama" group-title="Drama",CBC Drama
+http://stream.example.com/cbc-drama-sd.m3u8
+
+#EXTINF:-1 tvg-name="DMC Drama" group-title="Drama",DMC Drama
+http://stream.example.com/dmc-drama-sd.m3u8
+
+#EXTINF:-1 tvg-name="Al Hayah Drama" group-title="Drama",Al Hayah Drama
+http://stream.example.com/hayah-drama-sd.m3u8
+
+#EXTINF:-1 tvg-name="Al Nahar Drama" group-title="Drama",Al Nahar Drama
+http://stream.example.com/nahar-drama-sd.m3u8
+
+#EXTINF:-1 tvg-name="Nile Drama" group-title="Drama",Nile Drama
+http://stream.example.com/nile-drama-sd.m3u8
+
+#EXTINF:-1 tvg-name="Nile Cinema" group-title="Drama",Nile Cinema
+http://stream.example.com/nile-cinema-sd.m3u8
+
+#EXTINF:-1 tvg-name="Nile Comedy" group-title="Drama",Nile Comedy
+http://stream.example.com/nile-comedy-sd.m3u8
