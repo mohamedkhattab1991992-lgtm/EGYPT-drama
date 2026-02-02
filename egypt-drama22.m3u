@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Nile Drama" group-title="Drama",Nile Drama
+https://livecdnh2.tvanywhere.ae/hls/nile_drama/index.m3u8
+
+#EXTINF:-1 tvg-name="Nile Cinema" group-title="Drama",Nile Cinema
+https://livecdnh2.tvanywhere.ae/hls/nile_cinema/index.m3u8
+
+#EXTINF:-1 tvg-name="Nile Comedy" group-title="Drama",Nile Comedy
+https://livecdnh2.tvanywhere.ae/hls/nile_comedy/index.m3u8
+
+#EXTINF:-1 tvg-name="Nile Life" group-title="Drama",Nile Life
+https://livecdnh2.tvanywhere.ae/hls/nile_life/index.m3u8
+
+#EXTINF:-1 tvg-name="Nile Culture" group-title="Drama",Nile Culture
+https://livecdnh2.tvanywhere.ae/hls/nile_culture/index.m3u8
