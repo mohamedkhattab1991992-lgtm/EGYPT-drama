@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Syria Drama" group-title="Drama",Syria Drama
+http://82.137.248.16:1935/SyriaDrama/syriadrama/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lana TV" group-title="Drama",Lana TV
+https://lana.stream.lanacast.com/lana/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Lana Drama" group-title="Drama",Lana Drama
+https://lana.stream.lanacast.com/lanadrama/live/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MBC Iraq Drama" group-title="Drama",MBC Iraq Drama
+https://shls-mbciraq-prod.shahid.net/out/v1/3f6c2e8f0e8e4b8d8f1b2e8d8f1b2e8d/index.m3u8
+
+#EXTINF:-1 tvg-name="Rotana Khalijiah" group-title="Drama",Rotana Khalijiah
+https://shls-rotanakhalijiah-prod.shahid.net/out/v1/7a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d/index.m3u8
+
+#EXTINF:-1 tvg-name="Nile Drama" group-title="Drama",Nile Drama
+https://livecdnh2.tvanywhere.ae/hls/nile_drama
